@@ -10,6 +10,9 @@
         <p>        
             Giới thiệu
         </p>
+        <p>
+            FPT Polytechnic
+        </p>
     </article>
 
     <aside>
