@@ -11,7 +11,7 @@
             Giới thiệu
         </p>
         <p>
-            FPT Polytechnic
+            Cao đẳng thực hành FPT Polytechnic
         </p>
     </article>
 
