@@ -57,7 +57,7 @@
             &nbsp;<asp:LinkButton ID="InsertCancelButton" runat="server" CausesValidation="False" CommandName="Cancel" Text="Cancel" />
         </InsertItemTemplate>
         <ItemTemplate>
-            id_sanpham:
+            id_sanpham1:
             <asp:Label ID="id_sanphamLabel" runat="server" Text='<%# Eval("id_sanpham") %>' />
             <br />
             id_loaisanpham:
